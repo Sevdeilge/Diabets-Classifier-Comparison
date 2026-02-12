@@ -33,10 +33,10 @@ This repository contains a Jupyter Notebook session where different machine lear
 
 AdaBoost:
 
--Highest accuracy
--Best recall for Class 1
--Best F1-score for Class 1
--Balanced confusion matrix distribution
+- Highest accuracy
+- Best recall for Class 1
+- Best F1-score for Class 1
+- Balanced confusion matrix distribution
 
 
 
