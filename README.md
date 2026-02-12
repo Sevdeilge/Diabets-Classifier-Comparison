@@ -11,7 +11,7 @@ This repository contains the machine learning process focused on training, evalu
 6. Decision Tree
 
 
-** Evaluation Metrics **
+**Evaluation Metrics**
 
 - Accuracy 
 - Precision (Class 1) 
