@@ -1,16 +1,16 @@
 # Diabets-Classifier-Comparison
 This repository contains the machine learning process focused on training, evaluating, and comparing multiple classification models on the same dataset.
 
-# Models Implemented
+## Models Implemented
 
-AdaBoost
+1. AdaBoost
 
-Random Forest
+2. Random Forest
 
-Support Vector Classifier (SVC)
+3. Support Vector Classifier (SVC)
 
-Logistic Regression
+4. Logistic Regression
 
-K-Nearest Neighbors (KNN)
+5. K-Nearest Neighbors (KNN)
 
-Decision Tree
+6. Decision Tree
