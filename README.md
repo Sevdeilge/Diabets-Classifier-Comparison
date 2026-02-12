@@ -4,7 +4,6 @@ This repository contains the machine learning process focused on training, evalu
 ## Models Implemented
 
 1. AdaBoost
-
 2. Random Forest
 
 3. Support Vector Classifier (SVC)
