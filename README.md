@@ -11,7 +11,7 @@ This repository contains the machine learning process focused on training, evalu
 6. Decision Tree
 
 
-**Evaluation Metrics**
+## Evaluation Metrics
 
 - Accuracy 
 - Precision (Class 1) 
@@ -19,5 +19,24 @@ This repository contains the machine learning process focused on training, evalu
 - F1-score (Class 1)
 
 
-## 
+## Technologies Used
+
+- Python
+- Scikit-learn
+-Pandas
+-NumPy
+-Matplotlib
+-Jupyter Notebook
+
+
+**Best Performing Model**
+
+AdaBoost:
+
+-Highest accuracy
+-Best recall for Class 1
+-Best F1-score for Class 1
+-Balanced confusion matrix distribution
+
+
 
