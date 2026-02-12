@@ -29,7 +29,7 @@ This repository contains a Jupyter Notebook session where different machine lear
 - Jupyter Notebook
 
 
-**Best Performing Model**
+## Best Performing Model
 
 AdaBoost:
 
