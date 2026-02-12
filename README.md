@@ -1,5 +1,5 @@
 # Diabets-Classifier-Comparison
-This repository contains the machine learning process focused on training, evaluating, and comparing multiple classification models on the same dataset.
+This repository contains a Jupyter Notebook session where different machine learning classification models are experimentally trained on the same dataset, performance metrics are calculated separately, and a comparative analysis of the results is performed.
 
 ## Models Implemented
 
@@ -23,10 +23,10 @@ This repository contains the machine learning process focused on training, evalu
 
 - Python
 - Scikit-learn
--Pandas
--NumPy
--Matplotlib
--Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
 
 **Best Performing Model**
